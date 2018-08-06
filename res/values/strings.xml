@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ocurrences</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open Drawer</string>
+    <string name="drawer_close">Close Drawer</string>
+    <string name="titulo">Título</string>
+    <string name="localizacao">Local</string>
+    <string name="data">Data</string>
+    <string name="hora">Hora</string>
+    <string name="objetos">Objetos Furtados</string>
+    <string name="tipo">Tipo</string>
+    <string name="hintTitulo">Ex.: Fui assaltado na parada ... </string>
+    <string name="descricao">Descrição</string>
+    <string name="hintDescricao">Descrição do Ocorrido</string>
+    
+    <string name="confirm">Registar?</string>
+	<string name="save">Salvar</string>
+	<string name="cancel">Cancelar</string>
+	
+    <string-array name="options_left_drawer">
+        <item>Principal</item>
+        <item>Registrar</item>
+        <item>Meus Registros</item>
+        <!--  <item>Estatíticas</item>-->
+        <item>Números Úteis</item>
+    </string-array>
+
+      <string-array name="crimesTypes">
+        <item></item>
+        <item>Furto</item>
+        <item>Assalto à Mão Armada</item>
+        <item>Assalto Coletivo</item>
+        <item>Arrombamento Domiciliar</item>
+        <item>Estupro</item>
+        <item>Roubo de Veículo</item>
+        <item>Arrombamento Veicular</item>
+        <item>Outro</item>
+    </string-array>
+    
+    <string-array name="lstNumsDescription">
+        <item>Disque Denúncia</item>
+        <item>Polícia Militar</item>
+        <item>Polícia Rodoviária Federal</item>
+        <item>SAMU</item>
+        <item>Corpo de Bombeiros</item>
+        <item>Polícia Federal</item>
+        <item>Polícia Civil</item>
+        <item>Polícia Rodoviária Estadual</item>
+        <item>Defesa Civil</item>
+    </string-array>
+    
+    <string-array name="lstNums">
+        <item>181</item>
+        <item>190</item>
+        <item>191</item>
+        <item>192</item>
+        <item>193</item>
+        <item>194</item>
+        <item>197</item>
+        <item>198</item>
+        <item>199</item>
+    </string-array>
+    
+    <string-array name="lstEstatistics">
+        <item>Estatistica</item>
+        <item>Estatistica</item>
+        <item>Estatistica</item>
+        <item>Estatistica</item>
+        <item>Estatistica</item>
+        <item>Estatistica</item>
+        <item>Estatistica</item>
+        <item>Estatistica</item>
+        <item>Estatistica</item>
+    </string-array>
+
+    <string name="title_activity_register">RegisterActivity</string>
+    
+</resources>

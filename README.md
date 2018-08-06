@@ -1,0 +1,1 @@
+# An application for log crimes in order to know the most dangerous areas in our city.
